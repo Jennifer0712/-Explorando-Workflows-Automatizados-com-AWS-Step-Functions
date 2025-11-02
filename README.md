@@ -14,8 +14,7 @@ Para este desafio, modelei um workflow (uma "State Machine") para o processo de 
 
 O fluxo desenhado no Workflow Studio demonstra a orquestração de várias funções Lambda e serviços de mensageria (SQS e SNS) para gerenciar o processo de reserva.
 
-![Diagrama da State Machine de Reserva](-Explorando-Workflows-Automatizados-com-AWS-Step-Functions
-/Desafio SF.png)
+![Diagrama da State Machine de Reserva](Desafio SF.png)
 
 ### Componentes e Fluxo da Arquitetura
 
